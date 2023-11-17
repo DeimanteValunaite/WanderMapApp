@@ -2,7 +2,7 @@
  
 WanderMap is an interactive iOS travel application designed to help users discover and explore tourist attractions, local spots, and hidden gems around the world. The app features an intuitive map interface and personalized recommendations.
 
-![Amazing Mockup](https://github.com/DeimanteValunaite/WanderMapApp/assets/110168300/3821baec-bda6-4f4a-9e3b-4f70e17a9098)
+![Amazing Mockup](https://github.com/DeimanteValunaite/WanderMapApp/assets/110168300/910f03b6-ebeb-4773-8d23-1d1429adb404)
 
 
 ### Key Features
